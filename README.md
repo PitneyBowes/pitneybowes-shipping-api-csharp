@@ -2,7 +2,7 @@
 ---
 **IMPORTANT:**
 
-**This C# SDK has been replaced by the following C# SDK:**
+**This C# SDK has been deprecated and replaced by the following C# SDK:**
 
 https://github.com/PitneyBowes/pitneybowes-shipping-api-csharp-openapi
 
@@ -10,9 +10,15 @@ https://github.com/PitneyBowes/pitneybowes-shipping-api-csharp-openapi
 
 ---
 
-# Pitney Bowes Shipping API C# Client
+# Pitney Bowes Shipping API C# Client [DEPRECATED]
 
-**Latest version 1.3.0 is not backward compatiable with older versions as Surcharge Enum from Rates object has been removed and now it's a string**
+**This C# SDK has been deprecated and replaced by the following C# SDK:**
+
+https://github.com/PitneyBowes/pitneybowes-shipping-api-csharp-openapi
+
+# Legacy Documentation
+
+**Latest version 1.3.0 is not backward compatible with older versions as Surcharge Enum from Rates object has been removed and now it's a string**
 
 This package provides an easy to use, developer centric .net interface to the Pitney Bowes Shipping API.
 The package uses the [.NET Standard 2.0 framework](https://docs.microsoft.com/en-us/dotnet/standard/net-standard), meaning 
